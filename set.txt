@@ -1,0 +1,5 @@
+10
+screenshots
+{y}\{mo}\{d}\{h}\{m}
+{d}  {h}-{m}-{s}.jpg
+1280, 720
